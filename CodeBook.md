@@ -18,8 +18,6 @@ For each record in the dataset it is provided:
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
 
-
-
 Columns of tidy dataset:
 
 1	Activity
@@ -108,3 +106,4 @@ Other virables had taken from original dataset and there is full description: ht
 79	fBodyBodyGyroJerkMag-mean()
 80	fBodyBodyGyroJerkMag-std()
 81	fBodyBodyGyroJerkMag-meanFreq()
+
