@@ -77,7 +77,7 @@ Other virables had taken from original dataset and there is full description: ht
 50	fBodyAcc-meanFreq()-Y
 51	fBodyAcc-meanFreq()-Z
 52	fBodyAccJerk-mean()-X
-53	fBodyAccJerk-mean()-Y
+53	fBodyAccJerk-mean()-Y 
 54	fBodyAccJerk-mean()-Z
 55	fBodyAccJerk-std()-X
 56	fBodyAccJerk-std()-Y
